@@ -1,0 +1,7 @@
+Django>=5.0
+djangorestframework
+python-dotenv
+psycopg2-binary # Para PostgreSQL
+mysqlclient # Para MySQL
+pyodbc # Para SQL Server
+Faker
